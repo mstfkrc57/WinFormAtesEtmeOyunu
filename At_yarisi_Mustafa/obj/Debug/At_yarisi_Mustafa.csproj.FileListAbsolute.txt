@@ -1,0 +1,10 @@
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\bin\Debug\At_yarisi_Mustafa.exe.config
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\bin\Debug\At_yarisi_Mustafa.exe
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\bin\Debug\At_yarisi_Mustafa.pdb
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.Properties.Resources.resources
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.csproj.GenerateResource.cache
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.exe
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.pdb
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\20211210_At_Yarisi_Oyunu\At_yarisi_Mustafa\obj\Debug\At_yarisi_Mustafa.atyarisi_form.resources
